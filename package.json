@@ -18,5 +18,12 @@
   "homepage": "https://github.com/jermeewinn/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.3.1"
-  }
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": []
 }
